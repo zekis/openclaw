@@ -1,0 +1,14 @@
+{
+  "name": "@openclaw/raven",
+  "version": "2026.2.18",
+  "description": "OpenClaw Raven channel plugin",
+  "type": "module",
+  "devDependencies": {
+    "openclaw": "workspace:*"
+  },
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}

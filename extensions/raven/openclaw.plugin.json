@@ -1,0 +1,9 @@
+{
+  "id": "raven",
+  "channels": ["raven"],
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
